@@ -1,0 +1,20 @@
+{
+    "tfjsVersion": "1.3.1",
+    "tmVersion": "2.4.5",
+    "packageVersion": "0.8.4-alpha2",
+    "packageName": "@teachablemachine/image",
+    "timeStamp": "2023-02-03T04:16:21.227Z",
+    "userMetadata": {},
+    "modelName": "Proyecto IA - Marvel",
+    "labels": [
+        "Capitan America",
+        "Doctor Strange",
+        "Loki",
+        "Hulk",
+        "Thanos",
+        "Thor",
+        "Ironman",
+        "Spiderman"
+    ],
+    "imageSize": 224
+}
